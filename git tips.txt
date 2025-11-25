@@ -1,3 +1,8 @@
 git remote add origin https://github.com/MARKGO2025/SharedFolders.git
 git config --global core.quotepath off
 git config --global i18n.logOutputEncoding utf-8
+
+
+
+git config --global user.email "yjgkyo@gmail.com"
+git config --global user.email "MARKGO2025"
